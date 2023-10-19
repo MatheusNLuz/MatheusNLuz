@@ -6,11 +6,11 @@
 <div>
   <a href"https://github.com/MatheusNLuz">
   <img height ="180em" src = "https://github-readme-stats.vercel.app/api?username=MatheusNLuz&show_icons=true&theme=dark">
-  <img height ="172em" src = "https://github-readme-stats.vercel.app/api/top-langs/?username=MatheusNLuz&layout=compact&langs_count=168&theme=dark">
+  <img height ="180em" src = "https://github-readme-stats.vercel.app/api/top-langs/?username=MatheusNLuz&layout=compact&langs_count=168&theme=dark">
 </div>
 
   ## Linguagens que eu estou usando/apredendo no meu dia a dia!!
-    
+  <br>
 <div style="display: inline_block; ">
   <img align = "center" alt = "Theu-Symfony" height = "40" width = "40"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/symfony/symfony-original.svg">
   <img align = "center" alt = "Theu-Symfony" height = "40" width = "40"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg">
