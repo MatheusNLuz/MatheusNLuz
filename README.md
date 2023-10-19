@@ -8,9 +8,9 @@
   <img height ="180em" src = "https://github-readme-stats.vercel.app/api?username=MatheusNLuz&show_icons=true&theme=dark">
   <img height ="172em" src = "https://github-readme-stats.vercel.app/api/top-langs/?username=MatheusNLuz&layout=compact&langs_count=168&theme=dark">
 </div>
-    <div>
-      ## Linguagens que eu estou usando/aprendendo no meu dia a dia!!
-    </div>
+
+  ## Linguagens que eu estou usando/apredendo no meu dia a dia!!
+    
 <div style="display: inline_block; ">
   <img align = "center" alt = "Theu-Symfony" height = "40" width = "40"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/symfony/symfony-original.svg">
   <img align = "center" alt = "Theu-Symfony" height = "40" width = "40"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg">
@@ -23,5 +23,5 @@
   
 ##
   
-<a href="https://www.linkedin.com/in/matheus-luz-1117a4218/" target="_blank"<img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"/></a>
+<a href="https://www.linkedin.com/in/matheus-luz-1117a4218/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"/></a>
   
