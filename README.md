@@ -1,6 +1,6 @@
 ## Oi, eu sou o Matheus Luz!!
 
-- 🔭 Atualmente trabalho como Estagiario em Desenvolvimento Web Full-Stack
+- 🔭 Atualmente trabalho como Analista de sistemas no Coren-SC
 - 🌱 Estudante de Desenvolvimento Web Full-Stack
 
 
